@@ -20,6 +20,8 @@ Problem statement-Prepare a solution to allow an activity incharge to register, 
 ![SOCIETY-ATTENDENCE-TAB-1](https://github.com/Prashant-1008/BELIEVERS/assets/137468796/e026c146-dd5e-473f-8057-903c96abe883)
 ![USER-HOME TAB-1](https://github.com/Prashant-1008/BELIEVERS/assets/137468796/8a95a5d0-436a-40a1-a4d5-f94b0d168d10)
 ![USER-EVENTS-1](https://github.com/Prashant-1008/BELIEVERS/assets/137468796/6840fa41-9baf-4bd2-8ae9-15cef52b8d66)
+![USER-CERTIFICATE-1](https://github.com/Prashant-1008/BELIEVERS/assets/137468796/12bcf6e2-6327-47d8-b31b-6088b72c73c2)
+
 
 
 
